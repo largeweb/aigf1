@@ -9,6 +9,8 @@
 
 ### server.js - this is the main backend endpoint that handles all incoming requests and makes API calls and handles text.
 ```
+ cd backend
+ npm i # install packages
  node server.js # start the server
 ```
 
