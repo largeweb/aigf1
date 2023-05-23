@@ -1,0 +1,8 @@
+### How to setup vast.ai instance (also fine tuning alpaca - not sure if this can be done the same way with Wizard)
+https://medium.com/@martin-thissen/how-to-fine-tune-the-alpaca-model-for-any-language-chatgpt-alternative-370f63753f94
+
+### How to get a 4bit llama based GPTQ working
+https://medium.com/@martin-thissen/vicuna-13b-best-free-chatgpt-alternative-according-to-gpt-4-tutorial-gpu-ec6eb513a717
+
+### Wizard Vicuna 13B Uncensored GPTQ Model
+https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ
